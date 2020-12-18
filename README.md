@@ -15,4 +15,4 @@ This is a Roku Flashback app, part of the Roku streaming service. Once signed in
  Here's a link to the Roadmap on Google Drive: [Roadmap](https://docs.google.com/document/d/1R-tIUYHSSufoNhCpeEmZFAbreUtX4M-tlrbCOn_4tD8/edit?usp=sharing)
  
 ### License
-  This project is licensed under the MIT license.
+This project is licensed under the MIT license.
