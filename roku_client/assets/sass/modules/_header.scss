@@ -1,0 +1,14 @@
+#mainHeader {
+    margin-top: 5%;
+    margin-left: 5%;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    border-bottom: solid 2px #DDD;
+
+    img {
+        margin-right: auto;
+        height: 5rem;
+    }
+}

@@ -1,2 +1,9 @@
+// General Mixins
+@import 'mixins/_mediaqueries.scss';
+@import 'mixins/_misc.scss';
+
+// Main
+@import "modules/layout.scss";
+@import "modules/header.scss";
+@import "modules/footer.scss";
 @import "modules/moviethumbs.scss";
-@import "modules/defaults.scss";
